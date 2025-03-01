@@ -8,11 +8,11 @@
 *
 
 ## Key Takeaways:
-* 
-*
+* Using conditionals properly
+* || and && operators 
 *
 
 ## Next Steps:
-*
-*
+* start intermediate HTML and CSS 
+* Brush up the basics of python.
 *
