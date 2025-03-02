@@ -21,3 +21,4 @@
 * Add logic for operators in `calculator` project.
 * Brush up conditionals and loops in python
 * Continue with Introduction To DSA.
+* Make sure to complete all Intermediate HTML concepts TOMORROW ONLY.
