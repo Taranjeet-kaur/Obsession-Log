@@ -12,4 +12,4 @@ EXCEPT there are 2 green letter on files now, (A,U = on the files that I add to 
 
 Now, I think, maybe.. just maybe, the issue is NOT with GitHub but with the VSC itself. Because the command lines are working fine and everything is now being pushed normally to GitHub after that `object files corruption` fix.
 
-These issues cost me straight 3 days of no commits. UGH. 
+These issues cost me straight 2 days of no commits. UGH. 
