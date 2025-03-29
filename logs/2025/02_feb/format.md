@@ -2,13 +2,16 @@
 
 ## Progress: 
 *
+*
+*
+
 ## Challenges:
 *
-* 
+*
 *
 
 ## Key Takeaways:
-* 
+*
 *
 *
 
