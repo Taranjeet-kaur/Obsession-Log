@@ -8,3 +8,6 @@
 * What SQL is used for.
 * How to get all the records from a table in SQL.
 * How to insert a record in SQL.
+
+
+
