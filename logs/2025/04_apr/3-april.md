@@ -12,3 +12,8 @@
 ## Challenges:
 * Just remembering the syntax for SQL. Not a big deal though. Got a hang of it in just an hour.
 
+
+## Key Takeways:
+* SQL is really simple and fundamental.
+* Primary keys are the keys used for various things - remember Keys in React? 
+* 
