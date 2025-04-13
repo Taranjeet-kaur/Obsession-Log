@@ -1,0 +1,1 @@
+The weeks is not going well. Tried pushing through. Didn't really work.
