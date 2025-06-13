@@ -8,3 +8,12 @@
 * Struggled with next() vs nextLine() and why input kept skipping.
 * Learned that mixing them causes bugs unless I flush the buffer with nextLine() after next().
 
+
+## Key Takeaways:
+* Always use .equals() for string comparison.
+* If I use next(), flush with nextLine() before using another nextLine().
+* Journal project helped reinforce how real logic flows in loops and conditions.
+
+## Next Steps:
+* Slowly start documenting projects properly for GitHub.
+
