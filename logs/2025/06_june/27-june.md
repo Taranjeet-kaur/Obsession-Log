@@ -20,3 +20,14 @@
 
 * Learned the correct way to access and update static variables across objects.
 
+## Key Takeaways:
+* Static variables are shared by all objects and should be assigned carefully.
+
+* Static variables are best initialized at declaration, not in constructors.
+
+* Instance variables are unique to each object and are set in each constructor.
+
+* Constructors can be customized to set both instance and static values.
+
+* Writing your own constructor-based questions is a great way to solidify the concept.
+
