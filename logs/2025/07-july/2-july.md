@@ -9,7 +9,6 @@
 
 ## Challenges:
 * Made some typing mistakes like writing static instead of static.
-
 * Tried to make toString() static by mistake.
 
 * Printed an array directly and got hash code output instead of elements.
